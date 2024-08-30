@@ -2,10 +2,8 @@
 Welcome to my notes repository! This repository is a collection of my notes, mostly written in Markdown. It serves as a personal knowledge base and reference for various topics I’m studying or interested in.
 
 ## Table of Contents
-1. [Markdown](./markdown.md)
-2. [SSH](./ssh.md)
-3. [RegEx](./regex.md)
-4. []()
+1. Markdown
+2. Terminal
 
 The notes are organized to help me easily find and reference information as needed.
 
