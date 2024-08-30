@@ -4,6 +4,9 @@ Welcome to my notes repository! This repository is a collection of my notes, mos
 ## Table of Contents
 1. Markdown
 2. Terminal
+3. Programming
+4. Engineering
+5. Extras
 
 The notes are organized to help me easily find and reference information as needed.
 
