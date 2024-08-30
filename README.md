@@ -14,3 +14,7 @@ Each note is structured with the following sections:
 - Overview: A summary of the topic covered.
 - Topics: Detailed breakdown of the subject, including subtopics.
 - Summary: A recap of key points and takeaways.
+
+---
+
+*Last updated: [Date]*
