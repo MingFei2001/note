@@ -245,3 +245,7 @@ Markdown is a versatile tool for formatting text with simple syntax. It can be u
 |**Horizontal Rules**|`---`, `***`, or `___`|Insert horizontal lines|
 |**Footnotes**|`[^1]` in text and `[^1]: Footnote text`|Add footnotes|
 |**Definition Lists** |`Term`<br>`: Definition`|Define terms and their definitions|
+
+---
+
+*Last updated: 2024-08-30*
